@@ -12,3 +12,7 @@ General scientific and mathematical papers
 - [Numerical Evidence That the Motion of Pluto Is Chaotic - Gerald Jay Sussman, Jack Wisdom](https://web.mit.edu/wisdom/www/pluto-chaos.pdf)
 
 - [Deterministic nonperiodic Flow - Edward Lorenz](https://journals.ametsoc.org/doi/pdf/10.1175/1520-0469%281963%29020%3C0130%3ADNF%3E2.0.CO%3B2)
+
+- [Intermittent transition to turbulence in dissipative dynamical systems - Yves Pomeau, Paul Manneville](https://link.springer.com/article/10.1007%2FBF01197757)
+
+- [Roads to turbulence in dissipative dynamical systems - Eckmann](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.53.643)
